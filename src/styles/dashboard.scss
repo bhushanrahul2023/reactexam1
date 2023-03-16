@@ -1,0 +1,31 @@
+.d1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border: 1px solid black;
+    width: fit-content;
+    height: 25rem;
+    width: 30rem;
+    background-color: white;
+    position: absolute;
+    top: 30%;
+    left: 40%;
+    align-items: center;
+    gap: 2rem;
+    color: purple;
+    
+}
+.d2
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+}
+.dd
+{
+    background-color: purple;
+    height: 63rem;
+    position: relative;
+}

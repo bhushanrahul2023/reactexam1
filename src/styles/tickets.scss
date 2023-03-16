@@ -1,0 +1,57 @@
+.t1
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20rem;
+    height: 60rem;
+}
+.t2
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border: 1px solid black;
+    height: 40rem;
+    width: 20rem;
+    border-radius: 10%;
+}
+.t3
+{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border: 1px solid darkblue;
+    background-color: darkblue;
+    color: white;
+    height: 40rem;
+    width: 20rem;
+    border-radius: 10%;
+}
+.t0
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.tone
+{
+    display: flex;
+    justify-content: space-around;
+    font-size: 2rem;
+    background-color: burlywood;
+    border-bottom: 1px solid black;
+    color: black;
+
+}
+.tone1
+{
+    display: flex;
+    gap: 2rem;
+    align-items: center;
+
+}
